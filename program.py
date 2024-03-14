@@ -18,60 +18,55 @@ def calculate_md5(file_path):
     
     return md5_hex
 
-def read_the_file(input_file):
+def analyze_gene(filepath):
+
     try:
-        df = pd.read_csv(input_file, delimiter='\t')
-        return df
+        with open(filepath, "r") as r:
+            gene_count = 0
+            homo_sapiens_count = 0
+            gene_types = []
+            element_counts = {}
+            for line in r:
+                gene_count += 1
+                if gene_count != 1:
+                            
+                    parts = line.strip().split('\t')
+
+                    if '9606' in parts[0]:  # Assuming 'tax' is the second field
+                        homo_sapiens_count += 1
+                    
+                    gene_t = parts[9] 
+                    # Check if the gene is already in the dictionary
+                    if gene_t in gene_types:
+                        # If it is, increment its count by 1
+                        element_counts[gene_t] += 1 
+                    else:
+                        # If it's not, add it to the dictionary with a count of 1
+                        element_counts.update({gene_t: 1})
+                        gene_types.append(gene_t)
+            
+        max_element = max(element_counts, key=element_counts.get)
     except FileNotFoundError:
-        print(f"Error: File '{input_file}' not found.")
-        return None
-    except pd.errors.EmptyDataError:
-        print(f"Error: File '{input_file}' is empty.")
-        return None
-    except pd.errors.ParserError:
-        print(f"Error: Unable to parse file '{input_file}'.")
-        return None
+        print("Error: Input file '{}' not found.".format(filepath))
+    except IOError:
+        print("Error: Unable to read input file '{}'.".format(filepath))
+    except Exception as e:
+        print("An unexpected error occurred:", e)
 
-def count_genes(df):
-    # Select the column you want to count records from
-    selected_column = 'GeneID'  # Replace 'column_name' with the name of your column
-    # Get the number of unique values in the column
-    unique_values_count = len(df[selected_column].unique())
-    print("Answer question 1: {}".format(unique_values_count))
-
-def gene_homo_sapiens(df):
-    selected_column = '#tax_id'  # Replace 'column_name' with the name of your column
-    # Get the number of unique values in the column
-    #["9606"]
-    count = (df[selected_column] == 9606).sum()
-    print("Answer question 2: {}".format(count))
-
-def gene_type_data(df):
-    # Select the column you want to extract unique strings from
-    selected_column = 'type_of_gene'  # Replace 'column_name' with the name of your column
-    # Get the unique strings from the column
-    unique_strings = df[selected_column].unique()
-    #count repetitions
-    # Count the occurrences of each unique string in the column
-    string_counts = df[selected_column].value_counts()
-    # Find the string that repeated the most
-    most_repeated_string = string_counts.idxmax()
-    # Print the array of unique strings
-    print("Answer question 3: ")
-    print(unique_strings)
-    print("Answer question 4: {}".format(most_repeated_string))
+    return gene_count, homo_sapiens_count, gene_types, max_element
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process some strings.')
     parser.add_argument('input_file', help="Input file")
-    
     args = parser.parse_args()
+    print(args.input_file)
+    md5 = calculate_md5(args.input_file)
+    gene_count, homo_sapiens_count, gene_types, max_gene_type = analyze_gene(args.input_file)
+
+    print("File md5: {}".format(md5))
+    print("Answer question 1: {}".format(gene_count))
+    print("Answer question 2: {}".format(homo_sapiens_count))
+    print("Answer question 3: {}".format(gene_types))
+    print("Answer question 4: {}".format(max_gene_type))
     
-    md5_hash = calculate_md5(args.input_file)
     
-    print("MD5 hash of the file:", md5_hash)
-    df = read_the_file(args.input_file)
-    count_genes(df)
-    gene_homo_sapiens(df)
-    gene_type_data(df)
-    #add the wrong extension file and return an error
