@@ -1,5 +1,6 @@
 import streamlit as st
 import gccompute 
+import hashlib
 
 def main():
     st.title("GC Content")
@@ -16,16 +17,26 @@ def main():
     # Check if a file was uploaded
     if uploaded_file is not None:
         # Process the uploaded file
-        st.write("File uploaded:", uploaded_file.name)
         file_name = uploaded_file.name
+        st.write("File uploaded:", file_name)
+        file_contents = uploaded_file.getvalue()
+        md5_hash = hashlib.md5(file_contents).hexdigest()
+        st.write("MD5 hash:", md5_hash)
+  
         # Check the file extension
         if file_name.endswith(('.fasta', '.fas', '.fa', '.fna', '.ffn', '.faa', '.mpfa', '.frn')):
             st.success("File uploaded successfully!")
             input = uploaded_file.read()
-            gccompute.main(input, type='text')
+            print("Before gcc compute")
+            try:
+                gc_contents = gccompute.main(input)
+                for header, gc_content in gc_contents.items():
+                    st.write(f"GC-content of {header}: {gc_content:.2f}%")
+            except Exception as e:
+                st.error(f"An error occurred: {str(e)}")
             # Process the uploaded file
         else:
-            st.error("Invalid file format. Please upload a PNG, JPG, or JPEG file.")
+            st.error("Invalid file format. Please upload a valid FASTA file.")
 
 
 if __name__ == "__main__":

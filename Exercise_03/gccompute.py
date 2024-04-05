@@ -4,39 +4,20 @@ import hashlib
 import os
 from io import BytesIO
 
-def main(input_item, type):
-    #print(input_item)
-    if type == 'file':
-        # Process the uploaded file
-        if not os.path.isfile(input_item):
-            return "Error: Input file not found. Try again - usage: python gccompute.py input_file"
-        
-        if not is_fasta_file(input_item):
-            return "Error: Incorrect file format. File extension should be one of: '.fasta', '.fas', '.fa', '.fna', '.ffn', '.faa', '.mpfa', '.frn'."
+def main(input_item):
 
-        try:
-            sequences = read_fasta_file(input_item)
-        except Exception as e:
-            return f"Error: An error occurred while reading the FASTA file: {str(e)}"
-
-        md5 = calculate_md5(input_item)
-        print("File md5: {}".format(md5))
-
-    elif type == 'text':
-        sequences = input_item
-
-    else:
-        return "Input not recognized. Try again"
-
-
+    sequences = read_fasta_file(input_item)
 
     error_message = validate_fasta(sequences)
     if error_message:
         return error_message
 
     gc_contents = calculate_gc_content(sequences)
-    for header, gc_content in gc_contents.items():
-        print(f"GC-content of {header}: {gc_content:.2f}%")
+
+    return gc_contents
+
+class ValidationException(Exception):
+    pass
 
 def calculate_md5(file_path):
     # Open the file in binary mode
@@ -54,13 +35,13 @@ def calculate_md5(file_path):
     
     return md5_hex
 
-def read_fasta_file(text):
+def read_fasta_file(input):
     sequences = {}
     
     current_header = None
     current_sequence = ''
-    for line in text:
-        line = line.strip()
+    text = input.decode('utf-8')
+    for line in text.splitlines():
         if line.startswith('>'):
             if current_header is not None:
                 sequences[current_header] = current_sequence
@@ -78,16 +59,12 @@ def is_valid_dna_sequence(sequence):
     valid_chars = set('ACGT')
     return all(base in valid_chars for base in sequence)
 
-def is_fasta_file(file_path):
-    valid_extensions = ['.fasta', '.fas', '.fa', '.fna', '.ffn', '.faa', '.mpfa', '.frn']
-    _, extension = os.path.splitext(file_path)
-    return extension.lower() in valid_extensions
 
 def validate_fasta(sequences):
-    #print(sequence)
+
     for header, sequence in sequences.items():
         if not is_valid_dna_sequence(sequence):
-            return f"Error: Invalid DNA sequence in the FASTA file (sequence: {header})."
+            raise ValidationException("Invalid FASTA file: Invalid sequence.")
     
     return None
 
@@ -104,7 +81,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Usage: python gccompute.py input_file')
     parser.add_argument('input_file', help="Input file")
     args = parser.parse_args()
-    main(args.input_file, type="file")
+    main(args.input_file)
 
     
 
