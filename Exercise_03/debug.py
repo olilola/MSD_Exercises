@@ -5,10 +5,15 @@ import hashlib
 def main():
     st.title("GC Content")
     st.write("Upload a sequence in fasta format.")
-    user_input = st.text_area("Enter sequence", height=100)
+    user_input = st.text_area("Enter sequence (if you want to process multiple sequences, include the headers!)", height=100)
     if st.button("Calculate"):
     # Trigger the method when the button is clicked
-        gccompute.main(user_input, type='text')
+        try:
+            gc_contents = gccompute.main(user_input)
+            for header, gc_content in gc_contents.items():
+                st.write(f"GC-content of {header}: {gc_content:.2f}%")
+        except Exception as e:
+            st.error(f"An error occurred: {str(e)}")
 
     # Display a file uploader widget
     uploaded_file = st.file_uploader("Upload a file")

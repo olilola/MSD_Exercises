@@ -40,8 +40,18 @@ def read_fasta_file(input):
     
     current_header = None
     current_sequence = ''
-    text = input.decode('utf-8')
+    #Check if file and decode
+    if type(input) == bytes:
+        text = input.decode('utf-8')
+        file = True
+    else:
+        text = input
+        file = False
+
     for line in text.splitlines():
+        if file and not line.startswith('>'):
+            raise ValidationException("The file does not meet FASTA format. Headers are required.")
+        
         if line.startswith('>'):
             if current_header is not None:
                 sequences[current_header] = current_sequence
@@ -52,6 +62,8 @@ def read_fasta_file(input):
     # Add the last sequence after the loop ends
     if current_header is not None:
         sequences[current_header] = current_sequence
+    else:
+        sequences['Single sequence'] = current_sequence
     return sequences
 
 
