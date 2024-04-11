@@ -1,7 +1,9 @@
 # MSD_Exercises
 
-Exercise 2
+To run the program go to the directory main.py is and execute:
+streamlit run main.py
 
+Exercise 2
 Exercise Streamlit App I 1/2
 Programming Task - Streamlit App GC Content
 Streamlit is a fast way to create a small web application and share
