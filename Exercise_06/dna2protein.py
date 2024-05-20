@@ -1,68 +1,83 @@
 from Bio.Seq import Seq
 import random
 
-def transcribe_dna_to_rna(dna):
-    result = dna.transcribe()
-    return result
-
-def translate_rna_to_protein(rna):
-    result = rna.translate()
-    return result
-
-class Utility:
+# (2) Create a utility class, which contains both methods as static methods
+class SequenceUtils:
+    
     @staticmethod
     def transcribe_dna_to_rna(dna):
         result = dna.transcribe()
         return result
+
     @staticmethod
     def translate_rna_to_protein(rna):
         result = rna.translate()
         return result
-    
+
 class SequenceStorage:
+    # (4) Change the class SequenceStorage in a way that only one object could exist. Done with Singleton design pattern.
     _instance = None
-    
-    def __new__(cls):
-        if cls._instance is None:
-            cls._instance = super().__new__(cls)
+
+    def __new__(cls, *args, **kwargs):
+        if not cls._instance:
+            cls._instance = super(SequenceStorage, cls).__new__(cls, *args, **kwargs)
             cls._instance.data = {}
         return cls._instance
-    #def __init__(self):
-     #   self.data = {}
 
     def save(self, name, seq):
         self.data[name] = seq
 
     def read(self, name):
-        return self.data[name]
-    
+        return self.data.get(name)
+
 class DNASequenceGenerator:
     alphabet = ['A','C','G','T']
+    
     def create_sequence(self, n):
-        result = ''
-        for i in range(n):
-            idx = random.randint(0,3)
-            result = result + DNASequenceGenerator.alphabet[idx]
-        return result
+        return ''.join(random.choice(DNASequenceGenerator.alphabet) for _ in range(n))
+
+class ProteinSequenceGenerator:
+    alphabet = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y']
+    
+    def create_sequence(self, n):
+        return ''.join(random.choice(ProteinSequenceGenerator.alphabet) for _ in range(n))
+
+class SequenceFactory:
+    
+    @staticmethod
+    def create_sequence(sequence_type, length):
+        if sequence_type == 'DNA':
+            return DNASequenceGenerator().create_sequence(length)
+        elif sequence_type == 'Protein':
+            return ProteinSequenceGenerator().create_sequence(length)
+        else:
+            raise ValueError("Invalid sequence type. Choose 'DNA' or 'Protein'.")
 
 if __name__ == '__main__':
-
+ 
     sequence = 'GTGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG'
-    sequence=Seq(sequence)
-    rna=transcribe_dna_to_rna(sequence)
-    protein=translate_rna_to_protein(rna)
+    dna_seq = Seq(sequence)
 
-    print(protein)
-    sequence_name='sequence'
+    # (1) Translate the given DNA sequence into a protein sequence
+    rna_seq = SequenceUtils.transcribe_dna_to_rna(dna_seq)
+    protein_seq = SequenceUtils.translate_rna_to_protein(rna_seq)
+
+    # (3) Store the sequence into an object of the class SequenceStorage
     storage = SequenceStorage()
-    storage.save(sequence, sequence_name)
-    storage1 = SequenceStorage()
-    storage2 = SequenceStorage()
+    storage.save('Original DNA', dna_seq)
+    storage.save('Transcribed RNA', rna_seq)
+    storage.save('Translated Protein', protein_seq)
 
-    print(storage1 is storage2)  # Output: True
+    print("Stored sequences:")
+    for name, seq in storage.data.items():
+        print(f"{name}: {seq}")
 
-    # Storing and retrieving data
-    storage1.save("seq1", "ATCGATCG")
-    print(storage2.read("seq1"))  
-    random_seq= DNASequenceGenerator().create_sequence(50)
-    print(random_seq)
+    # (5) Create a random sequence with the DNASequenceGenerator
+    random_dna_sequence = DNASequenceGenerator().create_sequence(10)
+    print("Random DNA Sequence:", random_dna_sequence)
+    
+    # (6)) Extend to work with protein sequences (already integrated with storage)
+
+    # (7) Create a sequence using SequenceFactory
+    random_protein_sequence = SequenceFactory.create_sequence('Protein', 10)
+    print("Random Protein Sequence:", random_protein_sequence)
