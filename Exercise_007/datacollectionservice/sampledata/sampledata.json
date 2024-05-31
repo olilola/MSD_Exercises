@@ -1,0 +1,4600 @@
+[
+    {
+        "accuracy": 3,
+        "data": [
+            62.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80470080909540
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "device_orient  Non-wakeup",
+        "sensorType": 27,
+        "timestamp": 80469604267040
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Proximity Sensor Wakeup",
+        "sensorType": 8,
+        "timestamp": 80341282435992
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            62.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80470284926780
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.61411273,
+            5.106832,
+            9.071032
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470264295530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.04189853,
+            4.699818,
+            8.980052
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470284335373
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.2837129,
+            4.331111,
+            8.683171
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470304375217
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.89184016,
+            4.4795513,
+            7.6105685
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470364494748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.6859388,
+            4.939238,
+            8.314464
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470344454905
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.48961425,
+            4.656722,
+            8.448539
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470324415061
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.4441244,
+            4.086902,
+            6.964134
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470424614280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.5662287,
+            4.1156325,
+            7.1987658
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470384534592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.25019407,
+            4.1539397,
+            7.059902
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470404574436
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.5231331,
+            3.7565024,
+            7.1365166
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470444654123
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            55.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80470488947821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.044292733,
+            4.024653,
+            10.450092
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470504773655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.8295909,
+            4.0438066,
+            9.31524
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470484733811
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.93972415,
+            4.0533834,
+            8.29531
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470464693967
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5215151,
+            3.301604,
+            13.778032
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470564893186
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3108255,
+            3.2680852,
+            11.450869
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470544853342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3587095,
+            0.8403648,
+            7.768586
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470685132248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.3036429,
+            3.1627405,
+            22.684464
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470625012717
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.23582886,
+            2.3008277,
+            19.53848
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470645052561
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.60932434,
+            4.5801077,
+            21.559187
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470604972873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.0378864,
+            4.259285,
+            18.173786
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470584933030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.0570401,
+            3.3159695,
+            10.694301
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470524813498
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.034715924,
+            1.6017209,
+            13.7684555
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470665092405
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80470354654175
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.1830912,
+            0.16998832,
+            2.5396495
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470705172092
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.691438,
+            1.2952632,
+            -0.98940384
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470725211936
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            46.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80470692970321
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.895787,
+            2.3582888,
+            -2.914342
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470745251780
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.4001873,
+            3.9432502,
+            -3.517681
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470805371311
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.5031378,
+            0.32800564,
+            10.723031
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470905570530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.7449522,
+            2.5115175,
+            2.4199393
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470885530686
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.6100354,
+            -2.779668,
+            21.128231
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470945650217
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.3139305,
+            -1.328782,
+            17.048512
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470925610373
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.676362,
+            2.7844565,
+            0.23163901
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470845450998
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.555679,
+            -3.1148565,
+            29.330767
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470985729905
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.02364359,
+            -0.0042443275,
+            2.437686
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80470555052613
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.638766,
+            -2.267309,
+            13.801974
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471045849436
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            101.36365,
+            -32.730648,
+            -6.507593
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80470755451050
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.49343,
+            -2.8562827,
+            27.803267
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471005769748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            33.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80471101009853
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.447295,
+            3.3542767,
+            -0.74998367
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470825411155
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.3427265,
+            2.9616275,
+            -0.18016368
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471146048655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.4680011,
+            1.8746599,
+            4.2969937
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471186128342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.8909986,
+            -1.0462662,
+            6.8252707
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471065889280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.3721676,
+            -2.0518308,
+            21.40117
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471025809592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.58777654,
+            2.9281087,
+            -4.6046486
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470765291623
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.11683,
+            5.0062757,
+            2.6880898
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471246247873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.8662802,
+            5.9400144,
+            8.213907
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471767283811
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.22239691,
+            -2.4895122,
+            -4.8067765
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80470755451050
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.78170687,
+            3.9001546,
+            -4.872799
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470785331467
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5454572,
+            4.158728,
+            25.614965
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471667084592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.447099,
+            5.8107276,
+            18.609531
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471346447092
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            44.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80470896989957
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.0442274,
+            7.9702973,
+            32.266056
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471707164280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.39145198,
+            -1.8076223,
+            -8.914211
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471546845530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.4552538,
+            0.4237737,
+            10.603321
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471446646311
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.024167,
+            4.661511,
+            9.032724
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471286327561
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -8.613141,
+            5.41329,
+            22.243929
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471366486936
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            32.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80471305028186
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.61411273,
+            -1.6017209,
+            -3.2974143
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471506765842
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.0067618,
+            3.2968156,
+            0.777517
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470865490842
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            108.66449,
+            -19.102777,
+            -0.21781267
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80470555052613
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.6297007,
+            -1.2347959,
+            5.2706413
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80470955849488
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.16639702,
+            2.420538,
+            10.311228
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471867483030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.59735334,
+            1.5634137,
+            -1.7363948
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471627004905
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.78888947,
+            0.031124622,
+            -9.622895
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471606965061
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.3123782,
+            6.2943563,
+            35.32106
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471687124436
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.9293058,
+            6.9982514,
+            13.797186
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471747243967
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.5079262,
+            4.220978,
+            9.698313
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471807363498
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.39863458,
+            0.38067806,
+            -0.66858083
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471486725998
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.365892,
+            3.4404678,
+            4.3400893
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471226208030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.369839,
+            7.955932,
+            22.129007
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471727204123
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3826514,
+            3.2345665,
+            3.032855
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471887522873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.9748886,
+            0.5650747,
+            5.964837
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80471356646363
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.2549171,
+            1.5777789,
+            24.88234
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471406566623
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            33.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80471713061363
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.8136078,
+            0.7445967,
+            18.743607
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471426606467
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.467936,
+            -3.502717,
+            25.950153
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80470965690061
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            103.242035,
+            -25.12071,
+            -8.613666
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80471757443238
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5693992,
+            -0.39504328,
+            2.7263973
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471085929123
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5981296,
+            0.088585466,
+            3.7415388
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471466686155
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.148796,
+            3.5314474,
+            14.673464
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471827403342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.18555063,
+            6.0405707,
+            2.831742
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471987722092
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            96.17035,
+            -26.11228,
+            -14.083511
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80471557044800
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            4.200627,
+            1.3192052,
+            5.9585695
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471206168186
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.389834,
+            1.6831238,
+            0.43754035
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471126008811
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.33638534,
+            6.5385647,
+            5.762245
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472007761936
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.11372458,
+            0.24660277,
+            1.3329718
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471105968967
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.5710171,
+            2.789245,
+            10.239402
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471647044748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2006922,
+            4.1395745,
+            -1.204882
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471907562717
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.5590461,
+            -1.6256629,
+            -11.954847
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471566885373
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.14724341,
+            2.5881321,
+            16.248848
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471847443186
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.7847445,
+            -2.8427916,
+            -3.683713
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80471156247925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            102.51013,
+            -27.161682,
+            -20.004192
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80471156247925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.9804256,
+            4.5561657,
+            -2.1769278
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471927602561
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            35.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80471917067925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.1392193,
+            5.920861,
+            12.226589
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472087921311
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.6762531,
+            1.404594,
+            9.097368
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80471757443238
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.2062569,
+            5.7724204,
+            6.011242
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473009757353
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3682863,
+            5.1930237,
+            7.390302
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472288319748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            105.293335,
+            -3.0967858,
+            -11.698938
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80470955849488
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.799112,
+            6.3182983,
+            3.875614
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471266287717
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.9708488,
+            -1.1755531,
+            -6.151303
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471526805686
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.9045875,
+            6.811504,
+            7.9026613
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472608958394
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -9.791088,
+            5.566519,
+            12.695853
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471306367405
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            101.14398,
+            -22.11179,
+            -16.345211
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80471356646363
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.38581,
+            -4.1128583,
+            -11.535929
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80471557044800
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.38187516,
+            6.4188547,
+            16.378136
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473109957144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            40.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80473141141415
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            103.32477,
+            -30.09227,
+            -5.295689
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80471957841675
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.1376666,
+            5.3701944,
+            8.434174
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472368479280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.7992426,
+            4.8099513,
+            -1.5783775
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471947642405
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.80804306,
+            6.217742,
+            8.189965
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472148040842
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2389994,
+            5.183447,
+            6.451775
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471787323655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.4408886,
+            5.374983,
+            8.419808
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472428598967
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.044292733,
+            4.283227,
+            19.979015
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473170077144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.0283096,
+            5.4899044,
+            8.6017685
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472388519175
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.5734113,
+            5.437232,
+            7.4429746
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472248240061
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.4839842,
+            1.7597382,
+            -4.5663414
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473350437457
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.483208,
+            5.758055,
+            8.841188
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472649038290
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.9708488,
+            5.566519,
+            8.788516
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472188120530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.1440077,
+            6.078878,
+            7.7254906
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472849437769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            40.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80472937137300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2964603,
+            5.2744265,
+            7.0168066
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472268279905
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.7665,
+            6.1076083,
+            6.217143
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473029797300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            101.266846,
+            -32.016216,
+            -8.40576
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80472759437821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.6747441,
+            6.4044895,
+            7.0646906
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472769277978
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            104.81076,
+            -30.775627,
+            -5.872127
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80472559038342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            30.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80471509049488
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2964603,
+            5.2169657,
+            8.573038
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472348439384
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5454572,
+            6.2225304,
+            11.915343
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472047841623
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.1097125,
+            3.5314474,
+            17.014994
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473190117144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.49679685,
+            6.4667387,
+            9.147646
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472027801780
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.148796,
+            5.9639564,
+            9.97604
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472107961155
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.1336545,
+            6.31351,
+            7.1221514
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472468678759
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.93254155,
+            5.341464,
+            8.271368
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472168080686
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.51116204,
+            -1.0606314,
+            -13.214198
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471586925217
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.9963434,
+            -0.44771573,
+            -7.104195
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473671078290
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.531803,
+            7.759608,
+            45.15165
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473430597665
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.049081136,
+            1.271321,
+            -0.55844754
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473691118342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.9731777,
+            -1.496376,
+            -3.6900635
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473250237196
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.760159,
+            -1.0941502,
+            -11.351509
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473270277248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            43.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80472733126884
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.6595373,
+            4.771644,
+            19.605518
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473390517561
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.81283146,
+            6.155493,
+            8.544308
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472669078238
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.9955671,
+            5.3701944,
+            6.035184
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472749238030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.8886044,
+            -0.62967503,
+            -4.245518
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473951639696
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2916719,
+            5.2409077,
+            0.26515785
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471967682248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.6787562,
+            0.50038815,
+            5.3983264
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473891519280
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            101.0018,
+            -41.76067,
+            -6.3818765
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80473160237248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.4161704,
+            5.197812,
+            8.429385
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472829397821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.069722,
+            2.420538,
+            25.528774
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471386526780
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.13174087,
+            -0.06472063,
+            -3.7913666
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80471957841675
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.12228203,
+            0.7010851,
+            -0.47202063
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80472759437821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.1376666,
+            6.155493,
+            7.5243773
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472789317925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.78410107,
+            -3.7948096,
+            -5.8639984
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473570878030
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.0530279,
+            5.959168,
+            13.193847
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472067881467
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.35553896,
+            -2.4061728,
+            -13.721768
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473610958134
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            43.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80472529113238
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.0283096,
+            5.5760956,
+            9.554661
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472208160373
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5502456,
+            4.8147397,
+            8.242638
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473049837248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.142455,
+            5.6096144,
+            19.18414
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473150037144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.8367735,
+            5.1786585,
+            9.741408
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472548838550
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.1049241,
+            -1.0510546,
+            3.8564603
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473530797925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.578976,
+            5.3318872,
+            7.9744873
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472308359592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.25737667,
+            5.791574,
+            6.5858502
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472969677457
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.268506,
+            5.3558292,
+            8.702325
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472328399488
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.0977415,
+            0.7015011,
+            -15.680225
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473310357353
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3060371,
+            0.4429273,
+            -11.988366
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473330397405
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.82240826,
+            4.9057193,
+            8.941745
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472628998342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            108.6109,
+            -29.296513,
+            -5.927898
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80472358638915
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.3913867,
+            1.6208745,
+            10.00477
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473711158394
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            39.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80472121082248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4281414,
+            0.1604115,
+            -15.316307
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473290317300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.430405,
+            -5.1547165,
+            -7.223905
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474633005582
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.78410107,
+            5.2983685,
+            9.109339
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472228200217
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.3355439,
+            5.3558292,
+            8.884284
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472929597561
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.6667852,
+            1.6591818,
+            8.659229
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473510757873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.6627731,
+            4.000711,
+            16.976686
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473490717821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.0202203,
+            6.481104,
+            -2.1098902
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474051840478
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            4.832696,
+            5.4180784,
+            -5.3564277
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474031800321
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.7018566,
+            3.3686419,
+            0.825401
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471166088498
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.7944542,
+            -2.8083985,
+            -0.65900403
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473550837978
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.008379706,
+            -3.3159695,
+            -10.235811
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473590918082
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.875857,
+            5.245696,
+            9.535507
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472528798603
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.6515784,
+            5.379771,
+            8.539519
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472408559071
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            114.66217,
+            -36.675896,
+            -11.487749
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80474563045842
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.78410107,
+            5.9783216,
+            7.8212585
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472809357873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.132813,
+            1.2521675,
+            -7.223905
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473991720009
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.490194,
+            6.2129536,
+            15.070901
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80471326407248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.34356794,
+            5.571307,
+            7.4525514
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472949637509
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.337096,
+            -1.055843,
+            3.7989995
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473230197144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.3068132,
+            -1.6591818,
+            -12.299613
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473651038238
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.4257472,
+            5.7149596,
+            19.136255
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473129997144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            97.82556,
+            -13.349456,
+            3.6405404
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80473360637769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.6396074,
+            2.7844565,
+            26.596588
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473731198446
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -15.09185,
+            -3.608062,
+            15.01344
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474192121571
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            24.426844,
+            8.257602,
+            3.5212722
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474292322353
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            41.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80473753154175
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            41.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80472325098863
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.18315643,
+            4.1156325,
+            42.58028
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473751238550
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.09594548,
+            0.42158747,
+            0.019413948
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80472559038342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            18.546684,
+            8.74123,
+            0.7344214
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474312362509
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.705027,
+            3.5314474,
+            8.347982
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474392523134
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            6.862979,
+            4.7429137,
+            3.128623
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474372482978
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.62368953,
+            5.657499,
+            6.8204823
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472588918446
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3395559,
+            1.7022774,
+            7.826047
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473871479175
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.2174516,
+            5.4180784,
+            9.032724
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475134011519
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            101.445496,
+            -27.13453,
+            -6.145643
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80474162242092
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            16.013618,
+            7.563283,
+            5.3408656
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474693126207
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.0881647,
+            5.4803276,
+            8.347982
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475194132300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.7793127,
+            -0.9935937,
+            -3.3022027
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474653045790
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.005144,
+            5.949591,
+            8.558673
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472889517665
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.033098,
+            5.5042696,
+            7.6488757
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472869477717
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -11.419145,
+            1.7022774,
+            15.746066
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474412563290
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            108.312836,
+            -28.976555,
+            -5.6080866
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80472158240113
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.39631802,
+            1.1947122,
+            1.58566
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80472158240113
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.9923966,
+            7.4866686,
+            15.037382
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474753246832
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.9851487,
+            7.3047094,
+            42.16369
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473450637717
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.461227,
+            -3.4356213,
+            0.8770418
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80474162242092
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.0338743,
+            1.0366893,
+            10.555437
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473210157144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            40.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80474773199488
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.423353,
+            4.321534,
+            7.9170265
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472568878498
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.14724341,
+            -1.8124107,
+            -14.669872
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473630998186
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.8263552,
+            6.054936,
+            0.9307459
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474071880634
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.892551,
+            4.06296,
+            4.5938745
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474091920790
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.47334528,
+            0.6742115,
+            -0.20989704
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80472358638915
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.5885528,
+            5.6766524,
+            8.233061
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472689118186
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.90859956,
+            6.030994,
+            7.9649105
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472128000998
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.48159,
+            -1.0031705,
+            -0.6925228
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473931599540
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.207679,
+            -0.9696517,
+            12.355876
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474212161728
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.9923966,
+            -0.49559975,
+            2.8652608
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473911559384
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.8950106,
+            0.5626374,
+            10.100538
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474232201884
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            100.10016,
+            -40.311165,
+            -5.72992
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80473561038290
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            53.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80474977204748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.8558128,
+            1.7155848,
+            0.25841045
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80474763447925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.746309,
+            2.0518308,
+            31.72018
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474452643707
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.45609543,
+            2.468422,
+            12.207436
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473851439071
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            35.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80474365182300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.78888947,
+            6.241684,
+            10.392631
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473069877196
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            37.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80473957159592
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -20.823568,
+            -4.3837833,
+            16.109985
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474172081415
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.4153287,
+            3.3255463,
+            -6.950966
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474011760165
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.1695023,
+            5.451597,
+            8.32404
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474833407665
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.89184046,
+            -0.5328276,
+            10.125564
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80473761439123
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.8950106,
+            4.4603977,
+            8.549096
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472508758655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            97.852356,
+            -27.983675,
+            -6.97167
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80472959837300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -26.63669,
+            0.021547815,
+            11.364676
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474132001103
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.25334793,
+            -0.01621747,
+            -4.904851
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80473360637769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -17.778145,
+            2.3247697,
+            8.170812
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474111960946
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.234211,
+            5.6239796,
+            7.8691425
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472448638863
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            10.454282,
+            9.330204,
+            14.831481
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474733206623
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            103.076355,
+            -41.710968,
+            -21.195036
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80473961840530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            41.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80473345143967
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.3172317,
+            2.9472623,
+            5.383961
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473370477509
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.021127,
+            4.110844,
+            18.322227
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473831398967
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            48.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80473549144488
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.442072,
+            -5.5437546,
+            -1.3770881
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80473561038290
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            35.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80474569194019
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            15.520412,
+            6.6774287,
+            -0.39085343
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474352442821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.253234,
+            2.0805612,
+            25.198374
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474492724123
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.020931,
+            -3.9097314,
+            -4.547188
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474572884957
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -10.676943,
+            1.9560628,
+            31.65793
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474472683915
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            18.053478,
+            9.627085,
+            10.708666
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474713166415
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            58.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80475181212405
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.057751,
+            5.7963624,
+            35.728073
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473410557613
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            101.66406,
+            -19.577171,
+            -6.684122
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80473761439123
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            116.18274,
+            -26.08223,
+            5.850852
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80474963850530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            2.3953989,
+            6.054936,
+            29.579763
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473470677769
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.0035913025,
+            5.791574,
+            10.229825
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474893528394
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            7.6530657,
+            4.0342298,
+            1.074398
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474673085998
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.2940661,
+            5.509058,
+            8.338406
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475174092040
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.0139444,
+            5.1882353,
+            46.913784
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473771278655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.7098808,
+            5.475539,
+            8.573038
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475033810217
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -26.00941,
+            -3.0765493,
+            13.849858
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474152041259
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.495114,
+            1.9177556,
+            16.253637
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474512764332
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            33.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "tcs3701 Oplus Ambient Light Sensor Non-wakeup",
+        "sensorType": 5,
+        "timestamp": 80474161166415
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.1121067,
+            5.566519,
+            7.2993226
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475274293342
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.270124,
+            5.5042696,
+            8.8364
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475154051780
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.467936,
+            4.6902413,
+            8.783728
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474813367457
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.89423436,
+            5.6910176,
+            9.492412
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474853447873
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -13.47337,
+            -6.3087215,
+            -7.7649946
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474612965373
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4808137,
+            5.4899044,
+            7.8787193
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475093930998
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.3012487,
+            5.2121773,
+            6.461352
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472989717405
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.277822,
+            -5.2744265,
+            -6.52001
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474592925165
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.6324248,
+            5.08289,
+            7.3328414
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472709158134
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.79128367,
+            5.604826,
+            7.567473
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475254253082
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -4.4424415,
+            5.2983685,
+            12.959215
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474773287040
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.14963761,
+            5.6335564,
+            10.4405155
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474873488134
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.2597055,
+            5.327099,
+            9.612122
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472909557613
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2198458,
+            4.618415,
+            7.93618
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472488718707
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -7.165046,
+            -6.687956,
+            1.6288633
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80474563045842
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.5478514,
+            6.3949127,
+            8.070255
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474973689436
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.23582886,
+            6.126762,
+            9.214684
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474913568655
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            120.07367,
+            -10.862093,
+            -6.4422073
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80474362643759
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.3036429,
+            6.126762,
+            7.7063365
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474993729696
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.11611878,
+            6.76362,
+            12.552201
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473089917144
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.65242,
+            5.4420204,
+            8.209119
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475314373863
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            119.17172,
+            -25.784424,
+            1.56722
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "Rotation Vector  Non-wakeup",
+        "sensorType": 3,
+        "timestamp": 80474763447925
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.8974048,
+            6.43322,
+            8.319252
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474953649175
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.3323733,
+            6.4427967,
+            8.472482
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474933608915
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -3.168726,
+            0.50996494,
+            7.744644
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474532804540
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.79607207,
+            5.4803276,
+            7.9744873
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475294333603
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.7473464,
+            5.6335564,
+            6.059126
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80472729198082
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.06847358,
+            -2.1685257,
+            6.4388604
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80473160237248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            19.202694,
+            5.207389,
+            5.8867435
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474272282196
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.4664485,
+            5.4324436,
+            8.352771
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475113971259
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            18.000805,
+            8.429984,
+            -0.57760113
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474332402665
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            3.2094274,
+            -0.34715924,
+            -6.2087636
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473971679853
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -1.2725182,
+            4.939238,
+            28.128878
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473811358863
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -5.0601454,
+            -1.9895816,
+            0.6099229
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474552844748
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.80086046,
+            5.547365,
+            8.41502
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475234212821
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.60017407,
+            1.1970286,
+            -0.8965163
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80472959837300
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            9.692925,
+            2.3918076,
+            8.640076
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474252242040
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -6.271611,
+            4.096479,
+            10.4405155
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474793327248
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -2.1200657,
+            5.1786585,
+            39.85568
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80473791318759
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -0.20812869,
+            1.991416,
+            0.68017197
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80474963850530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            9.25188,
+            3.3953872,
+            -1.8524613
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80474362643759
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            1.1791444,
+            5.533,
+            8.5060005
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475214172561
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.700304,
+            5.29358,
+            8.376713
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475073890738
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            5.274167,
+            -4.503376,
+            -6.658148
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "linear_acceleration",
+        "sensorType": 10,
+        "timestamp": 80473961840530
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            -14.814123,
+            1.3000516,
+            25.169643
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80474432603498
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.9588778,
+            5.791574,
+            7.9792757
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475013769957
+    },
+    {
+        "accuracy": 3,
+        "data": [
+            0.3890578,
+            5.2840033,
+            8.86513
+        ],
+        "experimentId": 0,
+        "patientId": 0,
+        "sensorId": "icm4x6xx Accelerometer Non-wakeup",
+        "sensorType": 1,
+        "timestamp": 80475053850478
+    }
+]
