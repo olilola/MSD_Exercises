@@ -176,41 +176,89 @@ def decrypt_2(private_key, ciphertext):
 
 if __name__ == '__main__':
 
-  #logging.basicConfig(level=logging.DEBUG)
-  #p=get_prime_fast(20)
-  #q=get_prime_fast(20)
-  #e,d,n = generate_rsa_keypair(p,q,None)
-  
-  #txt = 'Hi, you smell like flowers'
-  #enc_txt = encrypt((p,q),txt)
-  #print(enc_txt)
-  # Open the file in read mode
-  with open('message.txt', 'r') as file:
-        # Read the entire content of the file
-        content = file.read()
-        # Remove any unnecessary characters such as square brackets or quotes
-        content = content.replace('[', '').replace(']', '').replace(',', ' ')
-        #print(content)
-        # Split the content into individual integers
-        encrypted_message = list(map(int, content.split()))
-        #print(encrypted_message)
-    
-    
-        
-        e=347185791680057079
-        n=35934062448514481
-
-        #get the prime numbers used to generate
-        #print(brute_force_hacking(n))
-        p=150944557
-        q=238061333
-        
-        #then I should have the prime numbers and I generate_rsa_keypair
-        e2, d2, n2= generate_rsa_keypair(p,q,e)
-        decrypted_message = decrypt((d2,n2),encrypted_message)
-        print(decrypted_message)
-        # Close the file
-        file.close()
-
-    
-    
+  # logging.basicConfig(level=logging.DEBUG)
+    # PK 347185791680057079, 16802743328604983
+ 
+    e = 3857915162579603
+    n = 35934062448514481
+ 
+    #print(brute_force_hacking(n))  # [150944557, 238061333]
+ 
+    p = 150944557
+    q = 238061333
+ 
+    e2, d2, n2 = generate_rsa_keypair(p, q, e)
+ 
+    # print(generate_rsa_keypair (p, q, e)) #(3857915162579603, 26012068694834795, 35934062448514481)
+ 
+    enc_message = [
+        24322083524468281,
+        35507326732878763,
+        31400689936145418,
+        31400689936145418,
+        24178824277506292,
+        2905982487084417,
+        19330968508506227,
+        35507326732878763,
+        31400689936145418,
+        2905982487084417,
+        6214242669149926,
+        24178824277506292,
+        2905982487084417,
+        6214242669149926,
+        8494066427442995,
+        4050037809818744,
+        8889814276547977,
+        3331179209893932,
+        28642392891932956,
+        8107708887580794,
+        10847748137261138,
+        2905982487084417,
+        20383315096743517,
+        35507326732878763,
+        8866751532625061,
+        2905982487084417,
+        3331179209893932,
+        31400689936145418,
+        8107708887580794,
+        2905982487084417,
+        5645747285816569,
+        35507326732878763,
+        1685070066111050,
+        2905982487084417,
+        31400689936145418,
+        8107708887580794,
+        3331179209893932,
+        2631842245135151,
+        24178824277506292,
+        2905982487084417,
+        8889814276547977,
+        35507326732878763,
+        2905982487084417,
+        18556768846845797,
+        35507326732878763,
+        2905982487084417,
+        19330968508506227,
+        35507326732878763,
+        31400689936145418,
+        2905982487084417,
+        3331179209893932,
+        2905982487084417,
+        21733787468085948,
+        31400689936145418,
+        8107708887580794,
+        3331179209893932,
+        28642392891932956,
+        26616902325000265,
+    ]
+ 
+    private_key = (d2, n2)
+ 
+    # Decrypt the message
+    decrypted_message = decrypt(private_key, enc_message)
+ 
+    # Print the decrypted message
+    print("Decrypted message:", decrypted_message)
+ 
+    # THIS Exercice is finished!
+ 
