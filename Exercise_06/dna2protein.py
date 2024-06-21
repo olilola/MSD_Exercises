@@ -37,6 +37,7 @@ class DNASequenceGenerator:
         return ''.join(random.choice(DNASequenceGenerator.alphabet) for _ in range(n))
 
 class ProteinSequenceGenerator:
+    # represent the 20 standard amino acids found in proteins
     alphabet = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y']
     
     def create_sequence(self, n):
@@ -76,7 +77,7 @@ if __name__ == '__main__':
     random_dna_sequence = DNASequenceGenerator().create_sequence(10)
     print("Random DNA Sequence:", random_dna_sequence)
     
-    # (6)) Extend to work with protein sequences (already integrated with storage)
+    # (6) Extend to work with protein sequences (already integrated in ProteinSequenceGenerator)
 
     # (7) Create a sequence using SequenceFactory
     random_protein_sequence = SequenceFactory.create_sequence('Protein', 10)

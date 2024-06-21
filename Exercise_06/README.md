@@ -1,5 +1,7 @@
 # MSD_Exercises 06
 
+Usage: python3 dna2protein.py
+
 Use the following Python code: dna2protein.py
 1. Translate the given DNA sequence into a protein sequence by
 using the given code (transcribe_dna_to_rna and

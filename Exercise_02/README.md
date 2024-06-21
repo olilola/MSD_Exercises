@@ -2,7 +2,7 @@
 
 Exercise 2
 
-Usage: python gccompute.py cd28.fasta
+Usage: python gccompute.py <input_file_fasta>
 
 Programming Task - Computing GC Content
 The drug Theralizumab is interacting with the Gene CD28.
