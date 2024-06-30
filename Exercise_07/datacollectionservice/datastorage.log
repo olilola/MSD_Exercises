@@ -5164,3 +5164,70 @@
 2024-06-30 11:34:27,629 - INFO - Starting Flask application
 2024-06-30 11:34:27,780 - WARNING -  * Debugger is active!
 2024-06-30 11:34:27,797 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:43:06,321 - INFO - Starting Flask application
+2024-06-30 11:43:06,813 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.196:8080
+2024-06-30 11:43:06,813 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:43:06,960 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:43:09,146 - INFO - Starting Flask application
+2024-06-30 11:43:09,241 - WARNING -  * Debugger is active!
+2024-06-30 11:43:09,268 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:48:24,807 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:48:24,809 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:48:24,819 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:48:25,867 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:48:26,315 - INFO - Starting Flask application
+2024-06-30 11:48:26,337 - WARNING -  * Debugger is active!
+2024-06-30 11:48:26,343 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:48:42,046 - INFO - Starting Flask application
+2024-06-30 11:48:42,184 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.196:8080
+2024-06-30 11:48:42,191 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:48:42,261 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:48:45,060 - INFO - Starting Flask application
+2024-06-30 11:48:45,452 - WARNING -  * Debugger is active!
+2024-06-30 11:48:45,482 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:49:38,284 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:49:38,290 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:49:39,402 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:49:40,164 - INFO - Starting Flask application
+2024-06-30 11:49:40,194 - WARNING -  * Debugger is active!
+2024-06-30 11:49:40,196 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:53:10,924 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:53:10,933 - INFO -  * Detected change in 'c:\\Users\\aiskr\\Repositories\\FS24\\MSD_Exercises\\Exercise_07\\datacollectionservice\\src\\app.py', reloading
+2024-06-30 11:53:12,165 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:53:13,606 - DEBUG - Logging setup complete. Test message.
+2024-06-30 11:53:13,621 - INFO - Starting Flask application
+2024-06-30 11:53:13,710 - WARNING -  * Debugger is active!
+2024-06-30 11:53:13,727 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:55:03,297 - DEBUG - Logging setup complete. Test message.
+2024-06-30 11:55:03,314 - INFO - Starting Flask application
+2024-06-30 11:55:03,532 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.196:8080
+2024-06-30 11:55:03,535 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:55:03,595 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:55:05,110 - DEBUG - Logging setup complete. Test message.
+2024-06-30 11:55:05,130 - INFO - Starting Flask application
+2024-06-30 11:55:05,217 - WARNING -  * Debugger is active!
+2024-06-30 11:55:05,238 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:59:41,275 - DEBUG - DataStorage instance created
+2024-06-30 12:11:26,250 - DEBUG - DataStorage instance created
+2024-06-30 12:11:26,250 - DEBUG - New Patient ID: 0
+2024-06-30 12:16:12,848 - DEBUG - DataStorage instance created
+2024-06-30 12:16:12,848 - DEBUG - New Patient ID: 0
+2024-06-30 12:17:24,625 - INFO - Starting Flask application
+2024-06-30 12:17:24,705 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.196:8080
+2024-06-30 12:17:24,707 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 12:17:24,742 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 12:17:25,334 - INFO - Starting Flask application
+2024-06-30 12:17:25,360 - WARNING -  * Debugger is active!
+2024-06-30 12:17:25,370 - INFO -  * Debugger PIN: 133-780-640

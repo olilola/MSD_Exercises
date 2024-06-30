@@ -14,7 +14,7 @@ logging.basicConfig(
 
 class DataPoint(object):
     def __init__(self, patient_id, experiment_id, data):
-        self.id = idgenerator.create_unique_identifier()
+        self.id = idgenerator.generate_unique_identifier()
         self.patient_id = patient_id
         self.experiment_id = experiment_id
         self.data = data
@@ -31,6 +31,7 @@ class DataStorage(object):
     
     def create_patient(self, name):
         id = len(self.patients)
+        logging.debug(f"New Patient ID: {id}")
         self.patients[id] = name
         return id
     
@@ -67,7 +68,7 @@ class DataStorage(object):
 # Example usage to generate logs
 if __name__ == "__main__":
     ds = DataStorage()
-    patient_id = ds.create_patient("Alberto W")
+    patient_id = ds.create_patient("Ola")
     experiment_id = ds.create_experiment("Experiment 1")
     data_point = DataPoint(patient_id, experiment_id, {"value": 42})
     ds.add_data(data_point)

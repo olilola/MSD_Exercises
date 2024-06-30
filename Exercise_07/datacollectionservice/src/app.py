@@ -6,7 +6,7 @@ import logging
 
 import json
 from flask import request, Flask
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 app = Flask(__name__)
 

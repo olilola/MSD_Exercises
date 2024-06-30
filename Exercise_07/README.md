@@ -14,5 +14,5 @@ https://gitlab.fhnw.ch/david.herzig/datacollectionservice
 4. Embed a code checker into your development environment
 (IDE, e.g. VSCODE, PyCharm)
 5. Execute performance tests
-6. Extend the code with a log file
-7. Commit your code to git and create a tag
+6. Extend the code with a log file > logging done in datastorage.log
+7. Commit your code to git and create a tag > tag: v1.0.0
