@@ -5154,3 +5154,13 @@
 2024-06-07 14:41:40,643 - INFO -  * Restarting with watchdog (windowsapi)
 2024-06-07 14:41:41,589 - WARNING -  * Debugger is active!
 2024-06-07 14:41:41,600 - INFO -  * Debugger PIN: 133-780-640
+2024-06-30 11:34:24,681 - INFO - Starting Flask application
+2024-06-30 11:34:24,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.8.196:8080
+2024-06-30 11:34:24,946 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-30 11:34:25,064 - INFO -  * Restarting with watchdog (windowsapi)
+2024-06-30 11:34:27,629 - INFO - Starting Flask application
+2024-06-30 11:34:27,780 - WARNING -  * Debugger is active!
+2024-06-30 11:34:27,797 - INFO -  * Debugger PIN: 133-780-640

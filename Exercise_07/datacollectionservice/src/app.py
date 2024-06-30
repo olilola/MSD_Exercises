@@ -6,6 +6,7 @@ import logging
 
 import json
 from flask import request, Flask
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 app = Flask(__name__)
 
@@ -27,11 +28,15 @@ def experiment_action():
   ds = datastorage.DataStorage()
   assert ds is not None
   if request.method == 'POST':
+    logging.info("Endpoint /experiment POST called")
     form_data = request.data
+    logging.debug(f"Received form data: {form_data}")
     data = json.loads(form_data)
     id = ds.create_experiment(data['name'])
+    logging.info(f"Created experiment with ID: {id}")
     return json.dumps({'result' : id})
   if request.method == 'GET':
+    logging.info("Endpoint /experiment GET called")
     exps = ds.get_experiments()
     exps_array = []
     for key, value in exps.items():
@@ -44,12 +49,17 @@ def patient_action():
   ds = datastorage.DataStorage()
   assert ds is not None
   if request.method == 'POST':
+    logging.info("Endpoint /patient POST called")
     form_data = request.data
+    logging.debug(f"Received form data: {form_data}")
     data = json.loads(form_data)
     id = ds.create_patient(data['name'])
+    logging.info(f"Created patient with ID: {id}")
     return json.dumps({'result' : id})
   if request.method == 'GET':
+    logging.info("Endpoint /patient GET called")
     return ds.get_patients()
+  
   
 @app.route('/store', methods=['POST'])
 def store_data():
@@ -69,6 +79,7 @@ def store_data():
   elif type == 'data':
     ds.store_data(filename)
   else:
+    logging.error(f"Invalid data type received: {type}")
     print('invalid data type: ' + type)
     
   return json.dumps({'success':True}), 200, {'ContentType':'application/json'}
@@ -86,7 +97,7 @@ def upload_data():
   
 
 if __name__ == '__main__':
-
+  logging.info("Starting Flask application")
   app.run(debug=True, host="0.0.0.0", port=8080)
   #app.run(debug=True, port=8080)
   
