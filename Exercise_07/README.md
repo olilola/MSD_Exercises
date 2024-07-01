@@ -1,4 +1,4 @@
-Exercises 1-4 were done locally (configuration)
+Exercises 1-4 were done locally (configuration). The score for Pylint was improved in app.py and accounts for 8.08.
 Exercises 5-6 are in the code.
 Exercise 7 is on GitHub.
 
