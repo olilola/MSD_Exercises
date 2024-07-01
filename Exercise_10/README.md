@@ -1,3 +1,6 @@
+Presentation of the results in pttx and PDF - Squats_presentation
+Notebook with the code - data_analysis.ipynb
+
 Data Analytics Task - Digital Biomarker Scientific Question
 The Sensor Data Collection App provides a way to collect data from
 various sensors. Now it is time to think about a scientifc question which
