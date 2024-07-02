@@ -32,7 +32,7 @@ def main():
         if file_name.endswith(('.fasta', '.fas', '.fa', '.fna', '.ffn', '.faa', '.mpfa', '.frn')):
             st.success("File uploaded successfully!")
             input = uploaded_file.read()
-            print("Before gcc compute")
+            
             try:
                 gc_contents = gccompute.main(input)
                 for header, gc_content in gc_contents.items():

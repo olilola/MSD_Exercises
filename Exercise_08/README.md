@@ -1,28 +1,27 @@
-Answers:
+Clinical Decision Support System 
 
-1. Phone Model: Galaxy J3
-2. 5
-3. The List is given in Sensorsoverview.jpg file in the same directory as this file
-4. There were only 5 sensors available, but the most suitable sensor would be most probably accelerometer. For other exercises I will use another device.
+Lecturer: Dr. Fenella Beynon, MD
+Semester: FS 2024
+Authors: Jonathan Lerch, Sascha Frossard, Aleksandra Iskrzynska
 
-Programming Task - Android Sensors
-▶ Clone the source code to your environment
-https://gitlab.fhnw.ch/david.herzig/androidsensoroverview
-▶ Build the software with Gradle (JDK 17)
-gradle clean
-gradle assembleDebug
-The APK file is located in app/build/outputs/apk/debug
-▶ Install the APK file on your device
-▶ Start the app
-Questions:
-1. What type/model of Android device are you using?
-2. How many sensors are available?
-3. List all the available sensors?
-4. Which sensor could be used to measure Parkinson’s disease?
-Some help...
-1. Download gradle and unpack it
-2. Install Android Studio. After the first start, the Android SDK will
-be installed. The location could be seen by using the SDK Manager
-(Tools, SDK Manager)
-3. Set the ANDROID_HOME environment variable to your Android SDK
-4. Execute the gradle task
+Description:
+The Depression CDSS supports non-specialist clinicians in the initial assessment and classification of adults regarding depression. The tool makes a classification of severity and based on that, it gives appropriate recommendations to the clinicians for next steps or treatments.
+It is a combination of a screening and diagnosis tool. The aim of the application is the objective assessment and early detection.
+
+Primary Users: Non-specialists of mental health like nurses, health helpers or general practitioners 
+Level of care/ setting: Primary care onsite or remotely (video call) in an initial appointment
+
+Advantages/ benefits
+•	Objective assessment 
+•	Efficiency and accessibility
+•	Privacy and confidentiality
+•	Standardized process and documentation of assessment and decision
+
+Attached Files:
+1. CDSS_DEP.pttx - final presentation, in the notes there is additional information aiming at providing more context in the written form
+2. L2_5-8.xlsx - L2 components
+3. L3_DEP_Assessment_v2 - L3 excel
+4. CDSS_DEP_v01.drawio - Workflow
+5. CDSS_Mental_Health - L1-L2 transition Workflows
+
+

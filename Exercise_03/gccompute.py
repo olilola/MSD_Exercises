@@ -40,6 +40,7 @@ def read_fasta_file(input):
     
     current_header = None
     current_sequence = ''
+    
     #Check if file and decode
     if type(input) == bytes:
         text = input.decode('utf-8')
@@ -49,8 +50,7 @@ def read_fasta_file(input):
         file = False
 
     for line in text.splitlines():
-        if file and not line.startswith('>'):
-            raise ValidationException("The file does not meet FASTA format. Headers are required.")
+
         
         if line.startswith('>'):
             if current_header is not None:
